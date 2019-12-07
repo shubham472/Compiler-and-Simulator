@@ -1,0 +1,12 @@
+main() 
+k=9 
+c=1 
+b=2 
+a=2 
+do{
+a=a+b 
+b=b+c 
+print(a) 
+}while(a<k) 
+print(b) 
+end
