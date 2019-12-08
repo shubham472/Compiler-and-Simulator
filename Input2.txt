@@ -1,0 +1,16 @@
+Program2: Recursive function to calculate Factorial of a number
+voide(n,l){
+if(n>l)[
+c=n-l
+i=e(c,l)
+a=c*i
+]
+returna
+}
+main()
+a=5
+b=1
+d=e(a,b)
+print(d)
+stop
+end
