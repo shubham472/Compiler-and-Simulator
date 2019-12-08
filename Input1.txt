@@ -1,3 +1,4 @@
+Program1: do…while loop
 main() 
 k=9 
 c=1 
